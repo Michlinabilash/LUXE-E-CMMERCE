@@ -388,7 +388,7 @@ function HeroSection({ setPage }) {
       <div style={{ maxWidth:1280, margin:"0 auto", padding:"0 32px", width:"100%", display:"grid", gridTemplateColumns:"1fr 1fr", gap:60, alignItems:"center" }}>
         <div className="fade-up">
           <div style={{ display:"inline-block", padding:"6px 14px", border:"1px solid rgba(201,169,110,.4)", borderRadius:20, color:"#c9a96e", fontSize:12, fontWeight:600, letterSpacing:".08em", textTransform:"uppercase", marginBottom:24 }}>
-            New Collection 2025
+            New Collection 2026
           </div>
           <h1 style={{ fontFamily:"Playfair Display", fontWeight:900, fontSize:"clamp(40px,6vw,72px)", color:"#fff", lineHeight:1.05, marginBottom:20 }}>
             Dress to<br />
@@ -1224,7 +1224,7 @@ function HomePage({ setPage, cart, setCart, wishlist, setWishlist, toast }) {
       {/* Footer */}
       <footer style={{ background:"#1a1208", padding:"40px 32px", textAlign:"center" }}>
         <div style={{ fontFamily:"Playfair Display", fontWeight:900, fontSize:24, color:"#c9a96e", marginBottom:10 }}>LUXE</div>
-        <p style={{ color:"rgba(255,255,255,.3)", fontSize:13 }}>© 2025 Luxe. All rights reserved. Built for your interview 🎯</p>
+        <p style={{ color:"rgba(255,255,255,.3)", fontSize:13 }}>© 2026 Luxe. All rights reserved</p>
       </footer>
     </>
   );
